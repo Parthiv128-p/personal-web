@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+#app{
+    width: 100%;
+    height:auto;
+    background-color: aqua;
+}
+.line{
+    background-color: aliceblue;
+    height: 10px;
+    width: 50px;
+    margin: auto;
+}
+#games{
+    width: 100%;
+    height:auto;
+    background-color: blueviolet}
+img{
+    transition:transform.3s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#chatbot{
+     width: 100%;
+    height:auto;
+    background-color: blue;
+}
